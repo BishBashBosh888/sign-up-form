@@ -144,3 +144,14 @@ a:hover{
     }
 }
 
+form div.incorrect label{
+    background-color:#E89590;
+}
+
+form div.incorrect input{
+    border-color:#E89590;
+}
+
+#error-message{
+    color:#E89590;
+}
